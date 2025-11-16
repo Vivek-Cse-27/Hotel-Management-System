@@ -103,7 +103,7 @@ No external DB server needed
 ✔ Windows Users (Ready-to-Run EXE)
 
 Download the full ZIP (JRE Included):
-https://drive.google.com/file/d/1dJu95wLChnJ2FGvBzeyY2ngAYpegChbN/view?usp=sharing
+(https://drive.google.com/file/d/1sLLblTG9oMBP3Ah_rAFPUi_4r9UZ30yk/view?usp=sharing)
 
 Extract ZIP
 
